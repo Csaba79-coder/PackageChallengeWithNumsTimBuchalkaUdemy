@@ -1,6 +1,8 @@
 # PackageChallengeWithNumsTimBuchalkaUdemy
 Packeges challenge by Udemy Video - Tim Buchalka
 
+https://www.udemy.com/course/java-the-complete-java-developer-course/
+
 // Create a suitably named package containing a class called Series
 
         // with the following static methods:
